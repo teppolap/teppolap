@@ -3,6 +3,7 @@
 
 - 👨‍💻 Check out my portfolio [https://teppo-lappalainen.netlify.app/](https://teppo-lappalainen.netlify.app/)
 
+
 - 📫 How to reach me **teppo.lappalainen28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
