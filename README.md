@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teppo Lappalainen</h1>
 <h3 align="center">A passionate fullstack developer from Finland</h3>
 
-- 👨‍💻 Check out my portfolio [https://teppo-lappalainen.netlify.app/](https://teppolappalainen.vercel.app/)
+- 👨‍💻 Check out my portfolio [https://teppolappalainen.vercel.app](https://teppolappalainen.vercel.app)
 
 
 - 📫 How to reach me **teppo.lappalainen28@gmail.com**
